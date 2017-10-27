@@ -1,1 +1,0 @@
-Commenting is necessary for professional work. When a programmer make codes it may not be understandable by other programmer. So commenting should be maintained. 
